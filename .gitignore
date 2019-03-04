@@ -18,3 +18,17 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+.idea/
+.phpintel/
+*.sublime-project
+
+/public/media
+/public/modules
+/public/themes
+/Modules/*/Assets
+/Themes/*/assets
+mix-manifest.json
+
+tags
+*.map
